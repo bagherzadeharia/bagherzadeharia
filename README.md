@@ -1,5 +1,5 @@
 # Hi there 👋
-My name is Aria. I'm a 22-year-old tech enthusiast and Backend Developer wannabe.<br>I'm interested in Python, Web Development and Django.<br>I'm also a bit fond of Android Programming.
+I'm a Computer Engineering graduate from the University of Science & Culture (USC), focused on backend development with Python and the Django Framework.
 
 
 # 💻 Tech Stack:
