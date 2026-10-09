@@ -13,7 +13,6 @@ My name is Aria. I'm a 22-year-old tech enthusiast and Backend Developer wannabe
 ![](https://github-profile-trophy.vercel.app/?username=bagherzadeharia&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600px" height="211.800px" alt="" style="display: block;"/>
 
 ### 🔝 Top Contributed Repo
