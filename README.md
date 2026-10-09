@@ -14,15 +14,3 @@ My name is Aria. I'm a 22-year-old tech enthusiast and Backend Developer wannabe
 
 ### ✍️ Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="600px" height="211.800px" alt="" style="display: block;"/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bagherzadeharia&limit=5&theme=dark&combine_all_yearly_contributions=true)
-<!-- ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bagherzadeharia&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
----
-[![](https://komarev.com/ghpvc/?username=bagherzadeharia&icon=0&color=0)](https://visitcount.itsvg.in)
-<!--  ---
-[![](https://komarev.com/ghpvc/?username=bagherzadeharia&icon=0&color=0)](https://visitcount.itsvg.in) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
